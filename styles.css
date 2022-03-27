@@ -4,6 +4,7 @@ body {
   background: linear-gradient( to right, #bbd2c5 0%, #536976 50%, #292e49 100%);  
   background-size: 400% 400%;
  animation: grad 10s ease infinite;
+ font-family: "Lato";
  }
  
  @keyframes grad {
@@ -22,4 +23,12 @@ color: whitesmoke;
 text-align: center;
 font-family: "Lato";
 font-size: 50px;
+border: 1px solid white;
+padding: 10px;
+width: 50;
+ }
+
+ h2 {
+color: white;
+  text-align: left;
  }
