@@ -32,3 +32,19 @@ width: 50;
 color: white;
   text-align: left;
  }
+
+ .menu {
+text-align: right;
+
+ }
+
+ .menu a{
+color: white;
+font-family: "Zapf Chancery";
+ }
+
+
+footer{
+text-align: end;
+  padding: 100 40px 1000px 0px;
+}
