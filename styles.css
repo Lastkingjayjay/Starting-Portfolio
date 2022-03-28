@@ -34,17 +34,38 @@ color: white;
  }
 
  .menu {
-text-align: right;
+text-align: center;
+
 
  }
 
  .menu a{
 color: white;
 font-family: "Zapf Chancery";
+text-decoration: none;
  }
+ #home-image img{
+width: 20%;
+align-items: right;
 
+}
 
 footer{
 text-align: end;
   padding: 100 40px 1000px 0px;
 }
+
+.header {
+text-align: center;
+
+
+}
+.link-title{
+text-align: center;
+color: aliceblue;
+font-family: "Zapf Chancery";
+font-size: 20px;
+text-decoration: none;
+
+}
+
